@@ -14,6 +14,7 @@ const signUpRoutes = require("./Routes/auth");
 const allowedOrigins = [
     'https://trading-1-qymd.onrender.com',
     'https://trading-frontend-tau.vercel.app',
+    'https://trading-dashboard-xi.vercel.app',
     'http://localhost:3000', // Frontend 1
     'http://localhost:3001', // Frontend 2
     'http://example.com',    // Frontend 3
